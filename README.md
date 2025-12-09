@@ -9,7 +9,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=kmj200392&show_icons=true&theme=tokyonight"
+    src="https://readme-stats-nu-beryl.vercel.app/api?username=kmj200392&show_icons=true&theme=tokyonight"
     alt="kmj200392's GitHub stats"
   />
 </p>
