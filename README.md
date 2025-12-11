@@ -1,7 +1,6 @@
 ### 👋 Hi there, I'm kmj200392
 
 열심히 성장 중인 개발자 **kmj200392**입니다.  
-깨끗한 코드와 꾸준한 학습, 그리고 협업을 중요하게 생각합니다.
 
 ---
 
@@ -18,20 +17,9 @@
 
 ### 🛠 Tech Stack
 
-- **Languages**: JavaScript, TypeScript, Python, Java  
+- **Languages**: JavaScript, Python, C  
 - **Frontend**: React, Next.js, HTML, CSS  
-- **Backend**: Node.js, Express, Spring Boot  
-- **Database**: MySQL, PostgreSQL, MongoDB  
-- **Tools & Etc.**: Git, GitHub, Docker, AWS
-
----
-
-### 📌 Interests
-
-- **Clean Architecture & Best Practices**
-- **성능 최적화 및 코드 리팩토링**
-- **테스트 코드 및 CI/CD 파이프라인 구축**
-- **새로운 기술과 트렌드 학습**
+- **Tools & Etc.**: Git, GitHub, Docker
 
 ---
 
